@@ -1,4 +1,13 @@
-# DEVELOP A CAROUSEL USING REACT FRAMEWORK
+# EXPERIMENT 07:DEVELOP A CAROUSEL USING REACT FRAMEWORK
+
+## AIM:
+To develop a carousel using react framework.
+## ALGORITHM:
+1. Define a state variable to track the active slide index.
+2. Render a container element with the desired layout for the carousel.
+3. Map over an array of slide data and render each slide component, passing the necessary props such as image, title, or content.
+4. Implement functions to handle previous and next slide actions, updating the active slide index accordingly.
+5. Add navigation controls (e.g., buttons or indicators) that trigger the previous and next slide actions when clicked.
 ## PROGRAM:
 ```
 DEVELOPED BY:RITHIGA SRI.B
